@@ -106,9 +106,15 @@ The Acme webhook implementation supports:
 cp .env.example .env
 docker compose up --build
 ```
+# How to run the solution
+Set the start up to multiple projects 
+<img width="1220" height="702" alt="image" src="https://github.com/user-attachments/assets/12ced93f-fffa-42b4-b7a0-9421a86b17b1" />
+Then run the solution and swagger for the API will show up 
+
+<img width="1856" height="1019" alt="image" src="https://github.com/user-attachments/assets/b1ee0064-f8b5-400b-892d-a0babc919413" />
+
 
 ## Services
-
 Payments API
 
 http://localhost:8080/swagger
